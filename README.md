@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 # 💫 About Me:
 👋 Hi there! I'm Andy, a passionate junior frontend developer. 🌟<br>🚀 Always seeking a new challenge and eager to learn.<br>
